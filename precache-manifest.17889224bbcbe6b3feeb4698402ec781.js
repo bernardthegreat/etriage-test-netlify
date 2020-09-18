@@ -92,12 +92,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/fa-solid-900.03ba7cb7.svg"
   },
   {
-    "revision": "91754ca7a8449ee29efa057760e739c7",
+    "revision": "752fa21f01b8d89232f2296889b3b4e0",
     "url": "/index.html"
   },
   {
-    "revision": "84464f8e4ab48726b7d1",
-    "url": "/js/app.3b7938cd.js"
+    "revision": "ea8e189fc32b4eda2364",
+    "url": "/js/app.48de41c1.js"
   },
   {
     "revision": "4cb6e908693da61515d6",
